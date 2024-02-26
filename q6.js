@@ -1,3 +1,4 @@
-var person_StripName = "\n\tFaraz \t\n";
+"use strict";
+let person_StripName = "\n\tFaraz \t\n";
 console.log(person_StripName);
 console.log(person_StripName.trim());
